@@ -1,1 +1,3 @@
-export enum Microservice {}
+export enum Microservice {
+  AUTHENTICATION = 'authentication',
+}
