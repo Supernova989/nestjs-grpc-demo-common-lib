@@ -1,0 +1,12 @@
+node_modules
+dist
+.env
+.env.example
+.git
+.idea
+.husky
+application.log
+api.postman_collection
+/docker
+/public-admin/assets/config.json
+/public-api/assets/config.json
