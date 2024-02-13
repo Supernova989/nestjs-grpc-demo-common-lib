@@ -1,6 +1,6 @@
 {
   "name": "nestjs-grpc-demo-common-lib",
-  "version": "0.0.9",
+  "version": "0.0.11",
   "main": "src/index.ts",
   "repository": "https://github.com/Supernova989/nestjs-grpc-demo-common-lib.git",
   "author": "Maksim Isaev <maksim.isaev@combridge-itc.de>",

@@ -23,11 +23,11 @@ var __importStar = (this && this.__importStar) || function (mod) {
     return result;
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.decorators = exports.enums = exports.PROTO_FOLDER_PATH = void 0;
-const path_1 = require("path");
+exports.constants = exports.decorators = exports.enums = void 0;
 const enums = __importStar(require("./enums"));
 exports.enums = enums;
 const decorators = __importStar(require("./decorators"));
 exports.decorators = decorators;
-exports.PROTO_FOLDER_PATH = (0, path_1.join)(__dirname, '..', 'proto');
+const constants = __importStar(require("./constants"));
+exports.constants = constants;
 //# sourceMappingURL=index.js.map
